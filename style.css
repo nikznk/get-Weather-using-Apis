@@ -1,0 +1,36 @@
+
+body{
+  background-color:rgb(253, 221, 195);
+}
+#mapid {
+  margin: 10px;
+  display: inline-block;
+  height: 400px;
+  width: 600px;
+}
+input{
+  margin-top: 5px;
+}
+#searches a {
+  display: block;
+}
+
+.main{
+  display: inline-block;
+}
+.search {
+  margin-top: 50px;
+  margin-left: 50px;
+  float: right;
+}
+#info1, #info2{
+margin-top : 5px;
+margin-bottom : 5px;
+} 
+
+h1 {
+margin: 10px;
+}
+
+
+
